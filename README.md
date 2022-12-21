@@ -1,4 +1,4 @@
-# ethereumScanner-manually
+# ethereum Scanner (manually) 
 part of project
 
 There are 2 types of programs:
